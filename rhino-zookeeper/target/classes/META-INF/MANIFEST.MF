@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rhino-zookeeper
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ant_li
+Specification-Title: rhino-zookeeper
+Implementation-Vendor-Id: cn.ljh.rhino.zk
+Build-Jdk: 1.8.0_45
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
